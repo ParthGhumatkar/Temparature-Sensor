@@ -1,3 +1,4 @@
+//Made by Parth Ghumatkar
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #define DHTPIN 2     
