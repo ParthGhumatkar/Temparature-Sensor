@@ -1,4 +1,4 @@
-t#include <Adafruit_Sensor.h>
+#include <Adafruit_Sensor.h>
 #include <DHT.h>
 #define DHTPIN 2     
 #define DHTTYPE DHT11  
